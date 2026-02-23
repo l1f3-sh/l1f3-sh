@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Peter</h1>
 <h3 align="center">A CS student and Software Engineer</h3>
 
-<p align="right">
+<p align="center">
   <img src="./akv7nf.gif" width="120" />
 </p>
 
