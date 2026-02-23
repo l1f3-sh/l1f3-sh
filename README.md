@@ -1,6 +1,10 @@
 <h1 align="center">Hello, I'm Peter</h1>
 <h3 align="center">A CS student and Software Engineer</h3>
 
+<p align="right">
+  <img src="./akv7nf.gif" width="120" />
+</p>
+
 - I’m currently working on [NyxEngine](https://github.com/l1f3-sh/NyxEngine)
 
 - 🤝 I’m looking for help with [keyscrape](https://github.com/l1f3-sh/keyscrape)
@@ -23,7 +27,6 @@
 
 ###
 
-![Alt Text](https://imgflip.com/gif/akv323)
 
 ###
 
